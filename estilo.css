@@ -48,6 +48,12 @@ font-size: 1rem;
 .margen-top{
 	margin-top: 200px;
 }
+.margen-top2{
+	margin-top: 120px;
+}
+.margen-top3{
+	margin-top: 60px;
+}
 .border-b{
 	border: #028093 solid 1px;
 }
