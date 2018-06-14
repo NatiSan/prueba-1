@@ -46,5 +46,15 @@ font-size: 1rem;
 	margin-top: 80px;
 }
 .margen-top{
-	margin-top: 100px;
+	margin-top: 200px;
+}
+.border-b{
+	border: #028093 solid 1px;
+}
+.border-card{
+	border: white solid 2px;
+	padding: 0;
+}
+.barra{
+	margin-bottom: 200px;
 }
