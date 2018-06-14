@@ -3,11 +3,13 @@
 }
 .pie{
 	background-color: #028093;
+	padding: 25px;
 	color: white;
-	bottom: 0;
-	margin-bottom: 0;
-	padding: 30px;
 
+}
+.fondo{
+	background-color: #1f2226;
+	color: white;
 }
 .mapa{
 	width: 150px;
@@ -15,13 +17,22 @@
 
 .banner{
 	background-image: url("images/58.jpg");
-
 	color: #028093;
-	font-size: 2.5rem;
-	padding: 50px 5px 5px 5px;
+	font-size: 1rem;
+	padding: 50px 5px 150px 5px;
 }
 
 .imagenes {
 	width: 200px;
 }
 
+.imagen-grande{
+	max-width: 100%;
+
+}
+.noticia{
+font-size: 1rem;
+}
+.foto{
+	max-width: 100%;
+}
