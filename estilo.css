@@ -23,7 +23,7 @@
 }
 
 .imagenes {
-	width: 200px;
+	width: 600px;
 }
 
 .imagen-grande{
@@ -35,4 +35,16 @@ font-size: 1rem;
 }
 .foto{
 	max-width: 100%;
+}
+.borde{
+	border-bottom: 2px solid #028093;
+}
+.borde2{
+	border-left: 2px solid #028093;
+}
+#carouselExampleControls{
+	margin-top: 80px;
+}
+.margen-top{
+	margin-top: 100px;
 }
